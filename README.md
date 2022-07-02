@@ -1,1 +1,1 @@
-# Amimated-Background-Effects
+# Animated-Background-Effects
